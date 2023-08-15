@@ -1,18 +1,19 @@
-Do some research to answer the following questions in your own words as best as you can.
+# Cloud Concepts and VPC
+
 ​
 
-1. What is DevOps?
+1. What are the difference between a server and your computer?
+   The server is storage place where other computers (clints)
+   access to it throught the network to share the resources.
+   The server has to be active and on all the time.​
+2. How can you tell whether an IP address is public or private?
+   The public IP does n't have the slash part like this e.g:
+   Public IP: 192.168.0.26
+   Private IP: 10.0.0.0/16
    ​
-   <!-- Write your answer here -->
-   ​
-2. What are the 3 ways of DevOps and what do they mean in your own words?
-   ​
-   <!-- Write you answer here -->
-   ​
-3. What do you think a DevOps Engineer does as part of a team?
-   ​
-   <!-- Write you answer here -->
-   ​
-4. What do you think the most important qualities of a DevOps or Cloud engineer are?
-​
-<!-- Write you answer here -->
+3. Explain in your own words the difference between Cloud, Hybrid, and On-Premises deployment models.
+   Cloud means that your servises and resources are exist in differenet regin by third party as you pay for them the costs for that.
+
+on-Permises : means your resources and services are exist in specific bulding/s and you are responsible to establish, maintain and extend them.
+
+Hybrid : means your resources and services are exist in mix between the two previous options as you and the third party are responsible to establish, maintain and extend these resourses and sevices.
